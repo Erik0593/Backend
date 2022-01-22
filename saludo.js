@@ -9,4 +9,4 @@ const saludo = (nombre) => {
     }
 }
 
-saludo('Erik Gutierrez')
+saludo(nombre)
